@@ -1,0 +1,23 @@
+# Compiled files
+*.class
+bin/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+
+# Custom libs (decide based on context)
+# lib/  # Uncomment if lib/ is managed or reproducible
